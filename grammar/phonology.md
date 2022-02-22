@@ -1,0 +1,29 @@
+            Labial  Coronal  Velar  Uvular  Glottal
+Nasal          m       n
+Stop                          k g             ʔ
+Fricative                     x ɣ     χ ʁ     h
+Approximant           ɾ ɻ       ɰ       ʁ     h
+Flap or Tap           ɾ                 ɢ̆
+Trill          м      r̥ r     к г       ʀ
+Lateral                 l
+
+Some of the sounds available to the Gramurn are judged impossible to consistently produce by humans, specifically the velar trills /к/ and /г/ and uvular tap /ɢ̆/
+
+Some of the trills can be difficult (or impossible) for a human to pronounce reliably but are phonemic in Proto-Gramurn.
+
+In addition to the above, gramurn may "growl" (or not growl) in varying tones alongside of their speech. Though growls may contain pragmatic content (especially emotive content), they are not phonemic. Growls are produced through specialized vocal "cords" which vibrate independently of those used to vocalize, and can thus accompany any consonant, voiced or unvoiced.
+
+         Front	Mid  Back
+High       i     e     u
+Upper
+Central
+Lower          a
+Bottom
+
+Diphthongs: /ai/, /ia/, /iu/, /ui/, /au/, /ua/
+
+/e/ is not phonemic in Proto-Gramurn, instead it replaces /i/ and /u/ in unstressed syllables
+
+Any vowel may be long (even if unstressed), noted by being written twice or a macron over the vowel. /ā/ /ē/ /ī/ /ū/
+
+In diphthongs, only the second vowel may be long.
