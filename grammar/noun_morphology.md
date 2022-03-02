@@ -4,7 +4,7 @@ Nouns inflect for number, singular or plural, and for whether they are a primary
    Primary     -u         -ku
 Incidental    -aura      -aikan
 
-Primary nouns represent the subject and direct object of a statement. Incidental nouns represent background information. For example, "At the water, I see game animals," contains the incidental noun _water_ and the primary nouns _I_ and _game animal_. Pronouns do not inflect.
+Primary nouns represent the subject and direct object of a statement. Incidental nouns represent background information. For example, "At the water, I see game animals," contains the incidental noun _water_ and the primary nouns _I_ and _game animal_. Pronouns, however, do not inflect.
 
 nax ɣamarai        ʔagaku              aɣix   niɣɾaкaura
 1S  see.PRES.SING  game-animal.PLURAL  sit.0  water
