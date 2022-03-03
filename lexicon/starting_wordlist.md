@@ -1,3 +1,7 @@
+# Proto-Gramurn Swadesh List
+
+The following is a Swadesh list for Proto-Gramurn. Note that some of the animal terms included in this list are not strictly accurate to Gramurn culture, but have not yet been defined in native terms.
+
 ## Family
 
 * **[nin](family/nin.md)**: mother
@@ -75,15 +79,15 @@
 
 ## Animals
 
-* **xikuʔ**  horse
-* **ʔaga**  cattle, game; an animal that is suitable for hunting
-* **ɣrauʔ**  sheep
-* **rikaul**  bear
+* **xikuʔ**  horse; ungulate game animals which will seldom stand and fight, but which provide ample meat
+* **ʔaga**  cattle, game; in this language, the word an animal that is suitable for hunting
+* **ɣrauʔ**  sheep; any game animal that is more valued for its byproducts than its meat
+* **rikaul**  bear; the class of dangerous (often predatory) animals which are not widely considered game
 * **grāl**  wolf, hound, dog
 * **miux**  mouse
-* **gaum**  pig
-* **harxul**  goose
-* **riкaм**  duck
+* **gaum**  pig; wild game animals which are dangerous and likely to fight back, especially those with tusks or horns
+* **harxul**  goose; an aggressive variety of foraging waterfowl
+* **riкaм**  duck; a passive variety of foraging waterfowl
 
 ## Farming
 
