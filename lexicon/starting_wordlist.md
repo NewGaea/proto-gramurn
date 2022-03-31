@@ -79,8 +79,8 @@ The following is a Swadesh list for Proto-Gramurn. Note that some of the animal 
 
 ## Animals
 
-* **xikuʔ**  horse; ungulate game animals which will seldom stand and fight, but which provide ample meat
-* **ʔaga**  cattle, game; in this language, the word an animal that is suitable for hunting
+* **xikuʔ**  horse; ungulate game animals which will seldom stand and fight, but which provide ample meat if caught
+* **ʔaga**  cattle, game; in this language, the word refers to an animal that is suitable for hunting
 * **ɣrauʔ**  sheep; any game animal that is more valued for its byproducts than its meat
 * **rikaul**  bear; the class of dangerous (often predatory) animals which are not widely considered game
 * **grāl**  wolf, hound, dog
