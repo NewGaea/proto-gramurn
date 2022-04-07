@@ -15,7 +15,7 @@ For example, a "big red horse" would be _iāʔarg[a]xikuʔ_ while a "red big hor
 
 ### Alternative readings
 
-When deriving, some adjectival constructions have further meaning. For example, the above _iāʔarg_ "big red"  "red big" construction actually means "more red" or "most red," while the contrasting _argiā_ would always mean that the referent is both "big" and "red."
+When deriving, some adjectival constructions have further meaning. For example, the above _iāʔarg_ "big red" construction actually means "more red" or "most red," while the contrasting _argiā_ "red big" would always mean that the referent is both "big" and "red."
 
 ## Verbal compounding
 

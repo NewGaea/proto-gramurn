@@ -5,25 +5,25 @@ aɣix
 
 #### **aɣix** _stem_
 
-1. to sit, to abide for a short time
+1. (_verb_) to sit, to abide for a short time
 
 | PRESENT TENSE | Singular | Inclusive | Exclusive | Plural     |
 |:--------------|:--------:|:---------:|:---------:|:----------:|
-| First Person  | aɣixai   | aɣixaki   | aɣixanki  | aɣixiʔai   |
-| Second Person | aɣixiaga | aɣixlinga | aɣixlinga | aɣixilaʔga |
-| Third Person  | aɣixum   | aɣixʔum   | aɣixaum   | aɣixaʔum   |
+| **First Person**  | aɣixai   | aɣixaki   | aɣixanki  | aɣixiʔai   |
+| **Second Person** | aɣixiaga | aɣixlinga | aɣixlinga | aɣixilaʔga |
+| **Third Person**  | aɣixum   | aɣixʔum   | aɣixaum   | aɣixaʔum   |
 
 | PAST TENSE    | Singular  | Inclusive  | Exclusive  | Plural      |
 |:--------------|:---------:|:----------:|:----------:|:-----------:|
-| First Person  | aɣixaʔī   | aɣixakʔī   | aɣixankʔī  | aɣixiʔaʔī   |
-| Second Person | aɣixiakua | aɣixlinkua | aɣixlinkua | aɣixilaʔkua |
-| Third Person  | aɣixumaʔ  | aɣixʔumaʔ  | aɣixaumaʔ  | aɣixaʔumaʔ  |
+| **First Person**  | aɣixaʔī   | aɣixakʔī   | aɣixankʔī  | aɣixiʔaʔī   |
+| **Second Person** | aɣixiakua | aɣixlinkua | aɣixlinkua | aɣixilaʔkua |
+| **Third Person**  | aɣixumaʔ  | aɣixʔumaʔ  | aɣixaumaʔ  | aɣixaʔumaʔ  |
 
 `#verb`
 
-#### **aɣix** _preposition_
+#### **aɣix**
 
-1. at, by, near, in, on; being located at or near something
+1. (_preposition_) at, by, near, in, on; being located at or near something
 
 ### Derivation
 

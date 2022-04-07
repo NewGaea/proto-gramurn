@@ -19,8 +19,10 @@ person.SING  see.PRES.SING  big  game-animal.SING
 The person sees a big game-animal.
 ```
 
+Positional clauses follow the noun they modify, with a general PREP + LOCATION structure. Prepostions function similar to verbs, and may even be 0-marked verbs.
+
 ```
 nax ɣamar.ai       ʔaga.ke             aɣix   niɣɾaк
 1S  see.PRES.SING  game-animal.PLURAL  sit.0  water
-I see game animals at the water.
+I see game-animals at the water.
 ```
