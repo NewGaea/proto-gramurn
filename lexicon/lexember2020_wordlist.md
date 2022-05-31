@@ -1,6 +1,8 @@
 # Lexember 2020 Wordlist - Complete
 
-The following wordlist is sorted by Day and the order words were coined within the response.
+The following wordlist is sorted by Day and the order words (or senses) were coined within the response.
+
+Note that any entry below which ends a gloss with an asterisk \* means that gloss is a meta-gloss, comparing the word to something which exists in our world, but not necessarily in Atrusius, the world where Proto-Gramurn developed.
 
 ## Day 1
 

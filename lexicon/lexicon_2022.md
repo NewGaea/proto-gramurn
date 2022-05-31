@@ -8,7 +8,7 @@
 
 ## K
 
-+ N/A
++ **krixmin** _comp. root_ child, youth, lit. 'young person' (`#2022.04.13`)
 
 ## G
 
@@ -68,11 +68,11 @@
 
 ## м
 
-+ N/A
++ **мuina** _root_ 2. definite article, specifies 
 
 ## R
 
-+ N/A
++ **rūmxuaʀ** _comp. root_ 1. play, game, practice, hobby `#2022.04.13`
 
 ## к
 
