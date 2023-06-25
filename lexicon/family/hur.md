@@ -31,4 +31,5 @@ _hur_ is a root word. It does not derive from any other word.
 
 #### Related Words
 
-* **hurʔhaмi** _father-sister; paternal aunt_, **hurɢ̆iʔhaк** _father-brother; paternal uncle_
+* **hurʔhaмi** _father-sister; paternal aunt_
+* **hurɢ̆iʔhaк** _father-brother; paternal uncle_

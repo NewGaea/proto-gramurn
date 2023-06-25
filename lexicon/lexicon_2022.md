@@ -32,7 +32,7 @@
 
 ## ɣ
 
-+ **ɣauɻī** 1. a type of small bird which is primarily used to help identify non-toxic flowers (if a ɣauɻī can eat the nectar, a gramurn can safely consume the petals and fruits) 2. to sample or taste a fruit, herb, or vegetable, especially one of unknown qualities `#2022.04.06`
++ **ɣauɻī** 1. (_noun_) a type of small bird which is primarily used to help identify non-toxic flowers (if a ɣauɻī can eat the nectar, a gramurn can safely consume the petals and fruits) 2. (_verb_) to sample or taste a fruit, herb, or vegetable, especially one of unknown qualities `#2022.04.06`
 
 ## χ
 

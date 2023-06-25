@@ -7,8 +7,12 @@ At this stage of their culture, the gramurn traced their lineage almost entirely
 
 Within the generation of the referent ego, siblings (including bimatrilineal cousins) are referred to as _haмi_ for females and _ɢ̆iʔhaк_ for males. The children of one's mother's sisters are considered siblings.
 
-* **haмi**: 1. _sister_, a female with the same mother, especially from the same litter 2. _female cousin_, a female born to one's mother's sister
-* **ɢ̆iʔhaк**: 1. _brother_, a male with the same mother, especially from the same litter 2. _male cousin_, a male born to one's mother's sister
+* **[haмi](lexicon/family/haмi)**
+	1. (_noun_) _sister_, a female with the same mother, especially from the same litter
+	2. (_noun_) _female cousin_, a female born to one's mother's sister
+* **[ɢ̆iʔhaк](lexicon/family/ɢ̆iʔhaк)**
+	1. (_noun_) _brother_, a male with the same mother, especially from the same litter
+	2. (_noun_) _male cousin_, a male born to one's mother's sister
 
 Age relative to the ego can be easily expressed by compounding the words _мuina-_ (old) and _krix-_ (young). Because elder siblings often contribute within their abilities to the rearing of younger siblings, these terms are commonplace, though only to different litters. Birth order within a single litter is considered unimportant, and birth order by litter is important only in direct matrilineal family.
 
@@ -99,5 +103,5 @@ The following terms are derived from _muxin_ and _nagur_, but are not typically 
 
 * **мuinamuxin**: 1. _young woman_, a youth who is old enough to join in adult social activities, generally one who is not yet old enough to mate
 * **мuinanagur**: 1. _young man_, a youth who is old enough to join in adult social activities, generally one who is not yet old enough to mate
-* **krixmuxin**: 1. _female pup_, a female infant or toddler who has not yet been weaned
-* **krixnagur**: 1. _male pup_, a male infant or toddler who has not yet been weaned
+* **krixmuxin**: 1. _female pup_, a female infant or toddler, especially one who has not yet been weaned
+* **krixnagur**: 1. _male pup_, a male infant or toddler, especially one who has not yet been weaned

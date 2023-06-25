@@ -6,15 +6,24 @@ In late 2006, Gary Shannon posted a list of over 800 example sentences from the 
 
 Section I contains 285 sentences, of increasing complexity.
 
-1. Birds sing.
-   + _luʔiālku ɣamaraʔum_
-   + `songbird.PL speak.3PL.PRES`
-2. Children play.
-   + _krixminku rūmxuaʀaʔum_
-   + `young.person.PL small.work.3PL.PRES`
-3. Dogs bark.
-   + _grālku ɣamaraʔum_
-   + `dog.PL speak.3PL.PRES`
+### 1. Birds sing.
+```gloss
+\gla luʔiālku ɣamaraʔum
+\glc songbird.PL speak.3PL.PRES
+\ft Songbirds sing.
+```
+### 2. Children play.
+```gloss
+\gla krixminku rūmxuaʀaʔum
+\glb young.person.PL small.work.3PL.PRES
+\ft Cubs play.
+```
+### 3. Dogs bark.
+```gloss
+\gla grālku ɣamaraʔum
+\glb dog.PL speak.3PL.PRES
+\ft Dogs bark.
+```
 4. Bees hum.
 5. Baby laughed.
 6. The sun shines.

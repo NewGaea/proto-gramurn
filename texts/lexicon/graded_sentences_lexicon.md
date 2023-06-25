@@ -165,6 +165,7 @@ This contains an alphabetical list of all the individual words included in the [
 + bird
 + bird's
 + birds
+	+ **_luʔiālku_**
 + birthday
 + birthplace
 + bit
@@ -322,6 +323,7 @@ This contains an alphabetical list of all the individual words included in the [
 + chief
 + child
 + children
+	+ **_krixminku_**
 + chimney
 + chirp
 + choice
@@ -491,6 +493,7 @@ This contains an alphabetical list of all the individual words included in the [
 + does
 + dog
 + dogs
+	+ **_grālku_**
 + doll
 + dollar
 + don't
