@@ -22,9 +22,9 @@ In addition to the above, gramurn may "growl" (or not growl) in varying tones al
 
 |  | Front | Mid | Back |
 |:-|:-:|:-:|:-:|
-| High | i | e | u |
+| High | i | | u |
 | Upper | | |
-| Central | | |
+| Central | | ə | |
 | Lower | a | |
 | Bottom | | |
 
@@ -32,9 +32,8 @@ The monophthongs above have a length of one mora.
 
 Any vowel may be long (even if unstressed), noted by being written twice or a macron over the vowel, as in /ā/ /ē/ /ī/ /ū/, such vowels have a length of two mora.
 
+/e/ is not phonetic in Proto-Gramurn, instead it replaces /i/ and /u/ in unstressed syllables
+
 Diphthongs: /ai/, /ia/, /iu/, /ui/, /au/, /ua/
 
-/e/ is not phonemic in Proto-Gramurn, instead it replaces /i/ and /u/ in unstressed syllables
-
-
-Diphthongs are inherently long, hower the second vowel of a diphthong may be long, creating a three mora vowel.
+Diphthongs are inherently long, however the second vowel of a diphthong may be long, creating a three mora vowel.
