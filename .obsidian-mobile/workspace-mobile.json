@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "155e641878d9f07d",
+        "id": "ea4b235bd5232f29",
         "type": "tabs",
         "children": [
           {
-            "id": "c981689f8a0546eb",
+            "id": "736d52ad7f0fcd58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lexicon/lexember2020_wordlist.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "lexicon/lexember2020_wordlist.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "lexicon/lexember2020_wordlist.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "lexicon/lexember2020_wordlist.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,6 +123,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c981689f8a0546eb",
-  "lastOpenFiles": []
+  "active": "736d52ad7f0fcd58",
+  "lastOpenFiles": [
+    "lexicon/lexember2020_wordlist.md"
+  ]
 }
