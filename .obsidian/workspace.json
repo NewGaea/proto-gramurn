@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "ef302edf5a16ef8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grammar/phonology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "be2f9363f009b497",
             "type": "leaf",
             "state": {
@@ -33,8 +45,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "4325ca7f68aeaa93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45cad03ce347c4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "texts/r_conlangs/lexember/2020/responses/w2/11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       },
       {
         "id": "524105af1031bb68",
@@ -46,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "texts/r_conlangs/lexember/2020/responses/w2/13.md",
+                "file": "grammar/romanization.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "texts/r_conlangs/lexember/2020/responses/w2/13.md",
+                "file": "lexicon/lexember2020_wordlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "texts/r_conlangs/lexember/2020/responses/w2/13.md",
+                "file": "lexicon/lexember2020_wordlist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "texts/r_conlangs/lexember/2020/responses/w2/13.md"
+                "file": "lexicon/lexember2020_wordlist.md"
               }
             }
           }
@@ -179,28 +208,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d34768221b98d53",
+  "active": "8544069669cd4a8a",
   "lastOpenFiles": [
-    "texts/r_conlangs/lexember/2020/prompts/w2/13.md",
+    "texts/r_conlangs/lexember/2020/responses/w2/11.md",
     "lexicon/lexember2020_wordlist.md",
+    "texts/r_conlangs/lexember/2020/responses/w2/10.md",
+    "grammar/romanization.md",
+    "texts/r_conlangs/lexember/2020/prompts/w2/10.md",
+    "grammar/phonology.md",
     "texts/r_conlangs/lexember/2020/responses/w2/13.md",
+    "lexicon/numbers/гa.md",
+    "lexicon/numbers/ɰaiaχ.md",
+    "lexicon/numbers/ɾauʔ.md",
+    "lexicon/numbers/riul.md",
+    "lexicon/numbers/lirax.md",
+    "lexicon/numbers/kuxan.md",
+    "lexicon/numbers/hiɣia.md",
+    "lexicon/numbers/hiaʔ.md",
+    "lexicon/lexicon.md",
+    "texts/r_conlangs/lexember/2020/prompts/w2/13.md",
     "texts/r_conlangs/lexember/2020/32_recap.md",
     "texts/r_conlangs/lexember/2020/responses/w2/12.md",
-    "texts/r_conlangs/lexember/2020/responses/w2/11.md",
-    "texts/r_conlangs/lexember/2020/responses/w2/10.md",
     "grammar/noun_morphology.md",
     "texts/lexicon/graded_sentences_lexicon.md",
     "lexicon/derivations.md",
     "texts/syntax/graded_sentences.md",
     "texts/syntax/syntax_test_cases.md",
     "lexicon/family/hur.md",
-    "grammar/syntax.md",
-    "grammar/phonology.md",
-    "lexicon/lexicon_2022.md",
-    "lexicon/lexicon.md",
-    "lexicon/starting_wordlist.md",
-    "lexicon/family/family.md",
-    "lexicon/family/ɢ̆iʔhaк.md",
-    "texts/r_conlangs/lexember/2020/responses/w1/01.md"
+    "grammar/syntax.md"
   ]
 }

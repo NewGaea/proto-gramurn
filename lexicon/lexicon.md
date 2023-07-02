@@ -1,13 +1,13 @@
 ## M
 
-* **maʔ**: _to grow, increase_
-* **mimar**: _wheel_
-* **[min](people/min.md)**: _person_
-* **minʔhiaʔ**: _thirty-two (literally "person two")_
+1. **maʔ**: _to grow, increase_
+2. **mimar**: _wheel_
+3. **[min](people/min.md)**: _person_; sixteen
+4. **minʔhiaʔ**: _thirty-two (literally "person two")_
 * **minʔhiɣia**: _one-hundred-twenty-eight (literally "person eight")_
 * **mig**: _through, across, beyond_
-* **migʔhiɣiaʔhia**: _ten	(literally "after-eight two")_
-* **migʔhiɣiaгa**: _nine	 (literally "after-eight one")_
+* **migʔhiɣiaʔhia**: _ten (literally "after-eight two")_
+* **migʔhiɣiaгa**: _nine (literally "after-eight one")_
 * **migminгa**: _seventeen (literally "after person one")_
 * **miʔar**: _wood, tree_
 * **miʔarmin**: _woodcutter, tree-tender_
