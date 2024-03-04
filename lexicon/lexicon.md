@@ -105,7 +105,7 @@
 * **ʔagamiʔik**: _wilderness_
 * **ʔagaxigai**: _hunt_
 * **ʔagamiumuʔ**: _spear_
-* **ʔagamiʀ**: _gamelands, lands where large, dangerous prey live_ \[LEX20201201\]
+* **ʔagamiʀ**: _gamelands; lands where large, dangerous prey live_ \[LEX20201201\]
 * **ʔagaʔaga**: _herd_
 * **ʔaɣuʀ**: _yesterday_
 * **ʔāмaur**: _name_
@@ -128,7 +128,7 @@
 * **hiʔai**: _to lead, drive_
 * **[hiaʔ](numbers/hiaʔ.md)**: _two_
 * **hiaʔχuaɾ**: _we two (inclusive)_
-* **[hiɣia](numbers/hiɣia.md)**: _eight	()_
+* **[hiɣia](numbers/hiɣia.md)**: _eight ()_
 * **[huʔ](pronouns/huʔ.md)**: _who, whom_
 * **[χuaɾ](pronouns/χuaɾ.md)**: _1. as one, together; 2. we (inclusive)_
 * **hiaʔʔiк**: _we two (exclusive)_

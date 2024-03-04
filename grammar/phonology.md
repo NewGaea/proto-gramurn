@@ -7,7 +7,7 @@
 | Nasal       |   m    |   n     |       |        |         |
 | Stop        |        |         |  k g  |        |    ʔ    |
 | Fricative   |        |         |  x ɣ  |  χ ʁ   |    h    |
-| Approximant |        |  ɾ ɻ    |    ɰ  |    ʁ   |    h    |
+| Approximant |        |  ɹ ɻ    |    ɰ  |    ʁ   |    h    |
 | Flap or Tap |        |  ɾ      |       |    ɢ̆   |         |
 | Trill       |   м    |  r̥ r    |  к г  |    ʀ   |         |
 | Lateral     |        |    l    |       |        |         |

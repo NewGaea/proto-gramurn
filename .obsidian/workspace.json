@@ -8,6 +8,75 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ef302edf5a16ef8f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grammar/romanization.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "78a7e7bbb8f8b40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grammar/noun_morphology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50732fdb93555fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/lexicon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "901ed3041defce08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grammar/syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e7e2e7f1c044f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grammar/phonology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4325ca7f68aeaa93",
+        "type": "tabs",
+        "children": [
+          {
             "id": "8544069669cd4a8a",
             "type": "leaf",
             "pinned": true,
@@ -22,37 +91,33 @@
             }
           },
           {
-            "id": "ef302edf5a16ef8f",
+            "id": "45cad03ce347c4f1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/lexember2023_wordlist.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "227b02a71b67df4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grammar/phonology.md",
+                "file": "grammar/syntax.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "be2f9363f009b497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "texts/r_conlangs/lexember/2020/prompts/w2/13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4325ca7f68aeaa93",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "45cad03ce347c4f1",
+            "id": "f155635949b0d1cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,25 +128,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "524105af1031bb68",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d34768221b98d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grammar/romanization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"eat\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lexicon/lexember2020_wordlist.md",
+                "file": "grammar/noun_morphology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lexicon/lexember2020_wordlist.md",
+                "file": "grammar/noun_morphology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +235,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lexicon/lexember2020_wordlist.md"
+                "file": "grammar/noun_morphology.md"
+              }
+            }
+          },
+          {
+            "id": "305c8254df936310",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -208,33 +268,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8544069669cd4a8a",
+  "active": "78a7e7bbb8f8b40c",
   "lastOpenFiles": [
-    "texts/r_conlangs/lexember/2020/responses/w2/11.md",
-    "lexicon/lexember2020_wordlist.md",
-    "texts/r_conlangs/lexember/2020/responses/w2/10.md",
-    "grammar/romanization.md",
-    "texts/r_conlangs/lexember/2020/prompts/w2/10.md",
-    "grammar/phonology.md",
-    "texts/r_conlangs/lexember/2020/responses/w2/13.md",
-    "lexicon/numbers/гa.md",
-    "lexicon/numbers/ɰaiaχ.md",
-    "lexicon/numbers/ɾauʔ.md",
-    "lexicon/numbers/riul.md",
-    "lexicon/numbers/lirax.md",
-    "lexicon/numbers/kuxan.md",
-    "lexicon/numbers/hiɣia.md",
-    "lexicon/numbers/hiaʔ.md",
+    "grammar/verbal_morphology.md",
     "lexicon/lexicon.md",
-    "texts/r_conlangs/lexember/2020/prompts/w2/13.md",
-    "texts/r_conlangs/lexember/2020/32_recap.md",
-    "texts/r_conlangs/lexember/2020/responses/w2/12.md",
+    "grammar/phonology.md",
+    "grammar/syntax.md",
     "grammar/noun_morphology.md",
-    "texts/lexicon/graded_sentences_lexicon.md",
+    "texts/r_conlangs/lexember/2020/responses/w1/05.md",
+    "texts/r_conlangs/lexember/2020/responses/w1/06.md",
+    "grammar/romanization.md",
+    "lexicon/lexicon_complete_24.md",
+    "lexicon/lexicon_stems_24.md",
+    "lexicon/lexember2023_wordlist.md",
+    "lexicon/lexember2020_wordlist.md",
     "lexicon/derivations.md",
-    "texts/syntax/graded_sentences.md",
-    "texts/syntax/syntax_test_cases.md",
-    "lexicon/family/hur.md",
-    "grammar/syntax.md"
+    "texts/r_conlangs/lexember/2020/responses/w1/02.md",
+    "texts/r_conlangs/lexember/2020/responses/w2/11.md",
+    "lexicon/starting_wordlist.md",
+    "texts/r_conlangs/lexember/2020/responses/w2/08.md",
+    "texts/r_conlangs/lexember/2020/prompts/w2/12.md",
+    "texts/r_conlangs/lexember/2020/prompts/w1/03.md",
+    "texts/r_conlangs/lexember/2020/responses/w2/10.md",
+    "texts/r_conlangs/lexember/2020/responses/w2/12.md",
+    "texts/r_conlangs/lexember/2020/prompts/w2/13.md",
+    "texts/r_conlangs/lexember/2020/prompts/w2/14.md",
+    "texts/r_conlangs/lexember/2020/responses/w2/13.md",
+    "lexicon/actions/aɣix.md",
+    "grammar/derivation.md"
   ]
 }

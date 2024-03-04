@@ -87,7 +87,7 @@ Note that any entry below which ends a gloss with an asterisk \* means that glos
 64. **mīʔ** (mI') 1. (_stem_) meat, edible flesh (false cognate to English _meat_)
 65. **guʔaum** (gu'aum) 1. (_stem_) belly, stomach, the underside or front of the body from the shoulders to hips 2. (_stem_) to move downwards 3. (_stem_) hunger
 66. **aɣuʔaum** (avu'aum) 1. (_desc._) edible, potable
-67. **ɰaguʔaum** (wavu'aum) 1. (_desc._) inedible, impotable, likely to cause vomiting 2. (_verb_) to vomit
+67. **ɰaɣuʔaum** (wavu'aum) 1. (_desc._) inedible, impotable, likely to cause vomiting 2. (_verb_) to vomit
 68. **aʔiālu** (a'iAlu) 1. (_noun_) a salve, ointment, unguent, or draught created with or for medicinal purposes; _desc_ medicinal
 69. **anʔuihal** (an'uihal) 1. (_noun_) any _aʔiālu_, food, or drink made for spiritual or religious purposes, especially offerings
 70. **laumīg** (laumIg) 1. (_verb_) to treat an injury, wound, or affliction 2. (_verb_) to pray (specifically for healing) 3. (_noun_) health, strength

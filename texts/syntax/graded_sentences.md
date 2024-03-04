@@ -9,7 +9,7 @@ Section I contains 285 sentences, of increasing complexity.
 ### 1. Birds sing.
 ```gloss
 \gla luʔiālku ɣamaraʔum
-\glc songbird.PL speak.3PL.PRES
+\glc songbird.PRIMPL speak.3PL.PRES
 \ft Songbirds sing.
 ```
 ### 2. Children play.
@@ -26,10 +26,18 @@ Section I contains 285 sentences, of increasing complexity.
 ```
 4. Bees hum.
 5. Baby laughed.
-6. The sun shines.
-   + __
-   + ``
-7. The wind blows.
+### 6. The sun shines.
+```gloss
+\gla mulu rimāum
+\glb sun.PRIMSG light.3.PRES
+\ft Sun shines.
+```
+### 7. The wind blows.
+```gloss
+\gla ʀiaкu ʀiкalum
+\glb wind.PRIMSG blow.3SG.PRES
+\ft Wind blows.
+```
 8. The car started.
 9. School began again.
 10. The child ran quickly.
@@ -37,6 +45,7 @@ Section I contains 285 sentences, of increasing complexity.
 12. Little Marigold cried bitterly.
 13. All the people shouted.
 14. I recited twice.
+
 15. The weary traveler slept soundly.
 16. The little brook flows swiftly.
 17. Softly the great white snowflakes fell.

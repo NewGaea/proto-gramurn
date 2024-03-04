@@ -1,6 +1,7 @@
 {
   "accentColor": "",
   "interfaceFontFamily": "",
-  "textFontFamily": "Tinos",
-  "monospaceFontFamily": "Input Mono"
+  "textFontFamily": "Georgia,Tinos",
+  "monospaceFontFamily": "",
+  "theme": "obsidian"
 }

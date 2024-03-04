@@ -12,6 +12,8 @@ Primary nouns represent the subject and direct object of a statement. Incidental
 ```gloss
 \ex nax ɣamarai ʔagaku aɣix niɣɾaкaura
 \gla nax ɣamarai ʔagaku aɣix niɣɾaкaura
-\glb 1S  see.PRES.SING  game-animal.PLURAL  sit.0  water
+\glb 1S  see-PRIM.SING  game.animal-PL  sit.0  water-INC.SING
 \ft I see game animals at the water.
 ```
+
+In addition to marking indirect objects, the incidental is also used as the argument -- whether subject or agent -- of intransitive constructions. If the sun is shining, that's intransitive.

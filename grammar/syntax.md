@@ -9,10 +9,10 @@ The fundamental syntax of Proto-Gramurn is SVO.
 Simple sentences typically consist of a subject and an action, with an optional object of the action.
 
 ```gloss
-\ex Minu ɣamarai ʔagake
-\gla minu        ɣamarai         ʔagake
-\glb person.3S    see.PRES.SING    game-animal.PLURAL
-\ft The person sees the game-animals.
+\ex Minu ɣamarum ʔagaku
+\gla min-u        ɣamar-u-m         ʔaga-ku
+\glb person.PRIMSING    see-3SG-PRES    game.animal-INCIDPLURAL
+\ft The person sees (the) game-animals.
 ```
 
 ### Descriptor
@@ -20,9 +20,9 @@ Simple sentences typically consist of a subject and an action, with an optional 
 Descriptors are added before the element they modify.
 
 ```gloss
-\ex minu ɣamarai iā ʔagau
-\gla min.u        ɣamar.ai       iā   ʔaga.u
-\glb person.SING  see.PRES.SING  big  game-animal.SING
+\ex minu ɣamarum iā ʔagau
+\gla min.u        ɣamar-u-m       iā   ʔaga-u
+\glb person-PRIMSG  see-3SG-PRES  big  game.animal-INCIDSING
 \ft The person sees a big game-animal.
 ```
 
@@ -31,9 +31,9 @@ Descriptors are added before the element they modify.
 Positional clauses follow the noun they modify, with a general structure of POSITIONAL + LOCATION. Prepositions function similarly to verbs, and may even be 0-marked verbs.
 
 ```gloss
-\ex nax ɣamarai ʔagake aɣix niɣɾaк
-\gla nax ɣamar.ai       ʔaga.ke             aɣix   niɣɾaк
-\glb 1S  see.PRES.SING  game-animal.PLURAL  sit.0  water
+\ex nax ɣamarai ʔagaku aɣix niɣɾaк
+\gla nax ɣamar-a-i ʔaga.ku aɣix niɣɾaкaura
+\glb 1S see-1SG-PRES game.animal-PRIMPLURAL sit-0 water-INCID
 \ft I see game-animals at the water.
 ```
 
