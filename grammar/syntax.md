@@ -8,10 +8,11 @@ The fundamental syntax of Proto-Gramurn is SVO.
 
 Simple sentences typically consist of a subject and an action, with an optional object of the action.
 
-```gloss
+```ngloss
 \ex Minu ɣamarum ʔagaku
-\gla min-u        ɣamar-u-m         ʔaga-ku
-\glb person.PRIMSING    see-3SG-PRES    game.animal-INCIDPLURAL
+\gl minu [min-u] [person-PRM.SG] [person]
+	ɣamarum [ɣamar-u-m] [see-3.SG-PRES] [sees]
+	ʔagaku [ʔaga-ku] [game.animal-INC.PL] [game animals]
 \ft The person sees (the) game-animals.
 ```
 
@@ -19,34 +20,39 @@ Simple sentences typically consist of a subject and an action, with an optional 
 
 Descriptors are added before the element they modify.
 
-```gloss
-\ex minu ɣamarum iā ʔagau
-\gla min.u        ɣamar-u-m       iā   ʔaga-u
-\glb person-PRIMSG  see-3SG-PRES  big  game.animal-INCIDSING
-\ft The person sees a big game-animal.
+```ngloss
+\ex Minu ɣamarum iā ʔagau
+\gl minu [min-u] [person-PRM.SG] [person]
+	ɣamarum [ɣamar-u-m] [see-3.SG-PRES] [sees]
+	iā [iā] [big] [big]
+	ʔagau [ʔaga-u] [game.animal-INC.SG] [game animals]
+\ft The person sees (some) big game-animals.
 ```
+#### Postpositional Clause
 
-**Postpositional Clause**
+Positional clauses follow the noun they modify, with a general structure of LOCATION + POSITIONAL. Postpositions function similarly to verbs, and are 0-marked root words.
 
-Positional clauses follow the noun they modify, with a general structure of POSITIONAL + LOCATION. Prepositions function similarly to verbs, and may even be 0-marked verbs.
-
-```gloss
+```ngloss
 \ex nax ɣamarai ʔagaku aɣix niɣɾaк
-\gla nax ɣamar-a-i ʔaga.ku aɣix niɣɾaкaura
-\glb 1S see-1SG-PRES game.animal-PRIMPLURAL sit-0 water-INCID
+\gl nax [nax] [1.SG] [I] 
+	ɣamarai [ɣamar-a-i] [see-1SG-PRES] [see]
+	ʔagaku [ʔaga.ku] [game.animal-PRM.PL] [game-animals]
+	niɣɾaкaura [niɣɾaкaura] [water-INC.SG] [water]
+	aɣix [aɣix] [sit-0] [at]
 \ft I see game-animals at the water.
 ```
-
 ## Articles
 
-Articles are optional in Proto-Gramurn -- the word **_гa_** may be used (and inflected as a noun) as the indefinite article, while _мuina_ may be used (and inflected as a noun) as the definite article. Articles (when used) must agree in number and role with their noun, and must be inflected, though they may assume the proper inflection in lieu of the noun which they precede.
+Articles are optional in Proto-Gramurn -- the word **гa** may be used (and inflected as a noun) as the indefinite article, while **мuina** may be used (and inflected as a noun) as the definite article. Articles (when used) must agree in number and role with their noun, and must be inflected, though they may assume the proper inflection in lieu of the noun which they precede.
 
 ### Definite Incidental, Unmarked Noun
 
-```gloss
-\ex minu ɣamarai мuina'aikan līnauʔla
-\gla min.u    ɣamar.ai       мuina.aikan   līnauʔla
-\glb 1S.PR_S  see.PRES.SING  DEF.INC_PL    līnau'la
+```ngloss
+\ex nax ɣamarai мuina'aikan līnauʔla
+\gl nax [nax] [1S]
+	ɣamarai [ɣamar.ai] [see.PRES.SING]
+	мuina'aikan [мuina.aikan] [DEF.INC_PL]
+	līnauʔla [līnauʔla] [līnau'la]
 \ft I see those līnau'la.
 ```
 
@@ -54,7 +60,7 @@ Articles are optional in Proto-Gramurn -- the word **_гa_** may be used (and in
 
 ```gloss
 \ex мuinau krixminu aɣixumaʔ гaaura xɰanʔaura aɣ
-\gla мuina.u      krixmin.u      aɣix.u.maʔ   гa.aura       xɰanʔ.aura     aɣ
+\gla мuina.u      krixmin.u      aɣix.u.maʔ   гa.aura       xɰanʔ.aura     aɣix
 \glb DEF.PR_SING  child.PR_SING  sit.3S.PAST  IND.INC_SING  field.INC_SING in
 \ft The child sat in a field.
 ```

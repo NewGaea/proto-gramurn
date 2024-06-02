@@ -1,7 +1,10 @@
 {
-  "accentColor": "",
-  "interfaceFontFamily": "",
-  "textFontFamily": "Georgia,Tinos",
-  "monospaceFontFamily": "",
-  "theme": "obsidian"
+  "accentColor": "#1acb3e",
+  "interfaceFontFamily": "Noto Sans",
+  "textFontFamily": "Noto Serif",
+  "monospaceFontFamily": "Input Mono",
+  "theme": "obsidian",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "cssTheme": "Tokyo Night"
 }

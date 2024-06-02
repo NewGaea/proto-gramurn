@@ -6,16 +6,17 @@ The following tables divide the phonetic notation from the romanization by a pip
 
 #### Table 1: Proto-Gramurn Consonants
 
-|             | Labial | Coronal | Velar | Uvular | Glottal |
-|:------------|:------:|:-------:|:-----:|:------:|:-------:|
-| Nasal       |   m    |   n     |       |        |         |
-| Stop        |        |         |  k g  |        |  ʔ \<'>    |
-| Fricative   |        |         | x \| ɣ \<v\> | χ \<s> \| ʁ \<z> |   h    |
-| Approximant |        | ɹ \<t\> \| ɻ \<d\> |    ɰ \<w>  |    ʁ \<z>   |    h    |
-| Flap or Tap |        |  ɾ \<r> |       |    ɢ̆ \<q>   |         |
-| Trill       | м \<M>  | r̥ \<T> \| r \<D> | к \<K> \| г \<G>  |    ʀ \<R>   |         |
-| Lateral     |        |    l    |       |        |         |
-**NOTE: Check documentation for \<t> and convert matching phonetic \<ɾ> to \<ɹ>!**
+|             | Labial |      Coronal       |      Velar       |      Uvular      | Glottal |
+| :---------- | :----: | :----------------: | :--------------: | :--------------: | :-----: |
+| Nasal       |   m    |         n          |                  |                  |         |
+| Stop        |        |                    |       k g        |                  | ʔ \<'>  |
+| Fricative   |        |                    |   x \| ɣ \<v\>   | χ \<s> \| ʁ \<z> |    h    |
+| Approximant |        | ɹ \<t\> \| ɻ \<d\> |      ɰ \<w>      |      ʁ \<z>      |    h    |
+| Flap or Tap |        |       ɾ \<r>       |                  |     ɢ̆ \<q>      |         |
+| Trill       | м \<M> | r̥ \<T> \| r \<D>  | к \<K> \| г \<G> |      ʀ \<R>      |         |
+| Lateral     |        |         l          |                  |                  |         |
+> [!TODO]
+> Check documentation for \<t> and convert matching phonetic \<ɾ> to \<ɹ>!
 #### Table 2: Proto-Gramurn Vowels
 
 |  | Front | Mid | Back |
